@@ -16,7 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /ML Engineer-CV-Mehedi Hasan.pdf/
+    #url: /ML Engineer-CV-Mehedi Hasan.pdf/
+    url: /_pages/ML Engineer-CV-Mehedi Hasan.pdf/
     
   - title: "Guide"
     url: /markdown/
