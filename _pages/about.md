@@ -11,10 +11,10 @@ redirect_from:
 
 My recent research paper received the prestigious "Best Paper Award" at the 2nd International Conference on Cross-Disciplinary Academic Research 2023 [ICAR 2023]
 
-title: DEPRESSION ANALYSIS FROM SOCIAL MEDIA BENGALI COMMENTS USING MACHINE LEARNING TECHNIQUES
-collection: publications
-permalink: /publications/first_page
-excerpt: Depression is a major public health concern that can have significant negative impacts on an individual's quality of life. Early detection of depression can be crucial for facilitating timely treatment and improving outcomes. In this study, we aimed to investigate the use of machine learning algorithms for detecting depression in social media comments written in Bengali, a language spoken by millions of people around the world. We collected a dataset of social media comments written in Bengali and labeled them according to the emotional state of the person posting (e.g., happy, sad, or depressed).  We describe the development and evaluation of several different algorithms, including SVM, LR, DT, KNN, CB, and LR. The results of our evaluation showed that the SVM algorithm had the highest accuracy, receiving a 75.28% score and being able to detect depression with high accuracy, suggesting that social media comments written in Bengali could be a useful source of data for detecting depression. These findings could have important implications for the development of automated tools for detecting depression in real-time and facilitating timely treatment.
+title: "DEPRESSION ANALYSIS FROM SOCIAL MEDIA BENGALI COMMENTS USING MACHINE LEARNING TECHNIQUES"
+collection: Publications
+permalink: /Publications/first_page
+excerpt: 'Depression is a major public health concern that can have significant negative impacts on an individual's quality of life. Early detection of depression can be crucial for facilitating timely treatment and improving outcomes. In this study, we aimed to investigate the use of machine learning algorithms for detecting depression in social media comments written in Bengali, a language spoken by millions of people around the world. We collected a dataset of social media comments written in Bengali and labeled them according to the emotional state of the person posting (e.g., happy, sad, or depressed).  We describe the development and evaluation of several different algorithms, including SVM, LR, DT, KNN, CB, and LR. The results of our evaluation showed that the SVM algorithm had the highest accuracy, receiving a 75.28% score and being able to detect depression with high accuracy, suggesting that social media comments written in Bengali could be a useful source of data for detecting depression. These findings could have important implications for the development of automated tools for detecting depression in real-time and facilitating timely treatment.'
 
 
 Short Biography
