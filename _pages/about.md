@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 👋 Hi there! I'm Mehedi Hasan, and I graduated from Daffodil International University with a bachelor's degree in computer science and engineering. I have a genuine passion for data science, machine learning, and AI innovation, which encourages me to dive into the tech world.
-=
+
 My recent research paper received the prestigious "Best Paper Award" at the 2nd International Conference on Cross-Disciplinary Academic Research 2023 [ICAR 2023](https://www.linkedin.com/feed/update/urn:li:activity:7111933616158371840?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7111933616158371840%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By0X6stW5RbOVVuIk063Bbg%3D%3D).
 
 Short Biography
