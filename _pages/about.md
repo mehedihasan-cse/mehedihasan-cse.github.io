@@ -11,6 +11,8 @@ redirect_from:
 
 My recent research paper received the prestigious "Best Paper Award" at the 2nd International Conference on Cross-Disciplinary Academic Research 2023 [ICAR 2023]
 
+---
+permalink: /
 title: "DEPRESSION ANALYSIS FROM SOCIAL MEDIA BENGALI COMMENTS USING MACHINE LEARNING TECHNIQUES"
 collection: Publications
 permalink: /Publications/first_page
