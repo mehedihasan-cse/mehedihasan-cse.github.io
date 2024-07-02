@@ -11,13 +11,6 @@ redirect_from:
 
 My recent research paper received the prestigious "Best Paper Award" at the 2nd International Conference on Cross-Disciplinary Academic Research 2023 [ICAR 2023]
 
----
-permalink: /
-title: "DEPRESSION ANALYSIS FROM SOCIAL MEDIA BENGALI COMMENTS USING MACHINE LEARNING TECHNIQUES"
-collection: Publications
-excerpt: 'Depression is a major public health concern that can have significant negative impacts on an individual's quality of life. Early detection of depression can be crucial for facilitating timely treatment and improving outcomes. In this study, we aimed to investigate the use of machine learning algorithms for detecting depression in social media comments written in Bengali, a language spoken by millions of people around the world. We collected a dataset of social media comments written in Bengali and labeled them according to the emotional state of the person posting (e.g., happy, sad, or depressed).  We describe the development and evaluation of several different algorithms, including SVM, LR, DT, KNN, CB, and LR. The results of our evaluation showed that the SVM algorithm had the highest accuracy, receiving a 75.28% score and being able to detect depression with high accuracy, suggesting that social media comments written in Bengali could be a useful source of data for detecting depression. These findings could have important implications for the development of automated tools for detecting depression in real-time and facilitating timely treatment.'
-
-
 Short Biography
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
