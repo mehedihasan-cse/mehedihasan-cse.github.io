@@ -19,16 +19,16 @@ Heart Disease Analysis
 -
 In this project, I performed an in-depth analysis of heart disease data to uncover critical insights. The analysis aimed to answer key questions such as:
 
-How many people have heart disease and how many don't?
-Which sex has the most heart disease cases?
-The distribution of chest pain types across different sexes.
-Identification of chest pain types most prone to heart disease.
-Age vs. maximum heart rate in people with heart disease.
-Age vs. maximum heart rate in people without heart disease.
-Age vs. serum cholesterol levels in people with heart disease.
-Age vs. serum cholesterol levels in people without heart disease.
-Exercise-induced angina prevalence by sex.
-Prevalence of fasting blood sugar > 120 mg/dl by sex.
+How many people have heart disease and how many don't? <br>
+Which sex has the most heart disease cases? <br>
+The distribution of chest pain types across different sexes. <br>
+Identification of chest pain types most prone to heart disease. <br>
+Age vs. maximum heart rate in people with heart disease. <br>
+Age vs. maximum heart rate in people without heart disease. <br>
+Age vs. serum cholesterol levels in people with heart disease. <br>
+Age vs. serum cholesterol levels in people without heart disease. <br>
+Exercise-induced angina prevalence by sex. <br>
+Prevalence of fasting blood sugar > 120 mg/dl by sex <br> <br>
 The dataset included features such as age, sex, chest pain type, resting blood pressure, serum cholesterol, fasting blood sugar levels, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression, the slope of the peak exercise ST segment, number of major vessels colored by fluoroscopy, and thalassemia status. Sensitive patient information was anonymized to ensure privacy.
 
 <h4> Highlights </h4>
