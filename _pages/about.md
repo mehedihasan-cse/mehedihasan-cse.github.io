@@ -16,7 +16,15 @@ Recent Projects
 [Heart Disease Analysis](https://github.com/mehedihasan-cse/ML-Projects/blob/main/heart_disease_analysis.ipynb)
 
 Heart Disease Analysis 
--
+---
+permalink: /about
+collection: about
+excerpt: 'This paper is ongoing process.'
+date: 2023-09-25
+venue: 'THE 2ND INTERNATIONAL CONFERENCE ON CROSS-DISCIPLINARY ACADEMIC RESEARCH (ICAR) 2023'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+---
 In this project, I performed an in-depth analysis of heart disease data to uncover critical insights. The analysis aimed to answer key questions such as:
 
 How many people have heart disease and how many don't? <br>
