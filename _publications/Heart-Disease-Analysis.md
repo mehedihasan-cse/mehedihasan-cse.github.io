@@ -9,14 +9,11 @@ permalink: /publication/Heart-Disease-Analysis
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal #1</i>. 1(3).'
 ---
-
 Recent Projects
-======
-[Heart Disease Analysis](https://github.com/mehedihasan-cse/ML-Projects/blob/main/heart_disease_analysis.ipynb)
-
 Heart Disease Analysis 
-
 In this project, I performed an in-depth analysis of heart disease data to uncover critical insights. The analysis aimed to answer key questions such as:
+
+[Heart Disease Analysis](https://github.com/mehedihasan-cse/ML-Projects/blob/main/heart_disease_analysis.ipynb)
 
 How many people have heart disease and how many don't? <br>
 Which sex has the most heart disease cases? <br>
