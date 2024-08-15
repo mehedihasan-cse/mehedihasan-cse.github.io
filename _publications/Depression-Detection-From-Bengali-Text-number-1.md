@@ -21,5 +21,6 @@ emotional condition. Various algorithms, such as SVM, Logistic Regression, Decis
 Multinomial Naive Bayes, and CatBoost were applied. The study's findings indicated that the SVM 
 algorithm performed the best and was capable of detecting depressive text from the given dataset. This 
 outcome indicates that text data from social networking sites could represent valuable insights and by 
-utilizing these insights of text data depressive persons can be detected. Additionally, the results can be used to design automated tools for detecting the real-time depression rate among people and necessary treatment can be taken as well. ---
+utilizing these insights of text data depressive persons can be detected. Additionally, the results can be used to design automated tools for detecting the real-time depression rate among people and necessary treatment can be taken as well.
+---
 
