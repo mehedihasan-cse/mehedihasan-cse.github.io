@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Recent Projects"
 collection: publications
@@ -26,4 +27,4 @@ Prevalence of fasting blood sugar > 120 mg/dl by sex <br> <br>
 Comprehensive Exploratory Data Analysis (EDA): Visualizations and statistical analysis to explore the relationship between different variables and heart disease.
 Sex-based Analysis: Determining how sex influences the prevalence of heart disease and associated factors.
 Age and Health Metrics Correlation: Insights into how age correlates with maximum heart rate and serum cholesterol levels in both heart disease and non-heart disease populations.
-This project enhanced my skills in data wrangling, visualization, and statistical analysis, providing valuable insights into the factors associated with heart disease.
+This project enhanced my skills in data wrangling, visualization, and statistical analysis, providing valuable insights into the factors associated with heart disease. -->
