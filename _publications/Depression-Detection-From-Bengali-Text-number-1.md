@@ -2,9 +2,9 @@
 title: "Depression Detection From Bengali Text On Social Media Using Machine Learning Algorithms."
 collection: publications
 category: manuscripts
-permalink: /publications/Depression-Detection-From-Bengali-Text-number-1
+permalink: /publication/Depression-Detection-From-Bengali-Text-number-1
 excerpt: 'This paper is an ongoing process.'
-date:01-03-2023
+date: 01-03-2023
 venue: 'THE 2ND INTERNATIONAL CONFERENCE ON CROSS-DISCIPLINARY ACADEMIC RESEARCH (ICAR)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/ICAR_ Full Paper_DepressionX.pdf'
