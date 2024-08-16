@@ -240,7 +240,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: Recent Projects
     values:
       layout: talk
       author_profile: true
