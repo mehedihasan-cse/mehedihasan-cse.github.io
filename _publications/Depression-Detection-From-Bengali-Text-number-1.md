@@ -6,7 +6,7 @@ permalink: /publication/Depression-Detection-From-Bengali-Text-number-1
 excerpt: 'This paper is an ongoing process.'
 date: 01-03-2023
 venue: 'THE 2ND INTERNATIONAL CONFERENCE ON CROSS-DISCIPLINARY ACADEMIC RESEARCH (ICAR)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/ICAR_ Full Paper_DepressionX.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -24,3 +24,4 @@ outcome indicates that text data from social networking sites could represent va
 utilizing these insights of text data depressive persons can be detected. Additionally, the results can be used to design automated tools for detecting the real-time depression rate among people and necessary treatment can be taken as well.
 ---
 
+Read Full Thesis Paper[http://dspace.daffodilvarsity.edu.bd:8080/handle/123456789/10411]
