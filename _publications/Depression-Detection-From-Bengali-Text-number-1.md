@@ -24,4 +24,4 @@ outcome indicates that text data from social networking sites could represent va
 utilizing these insights of text data depressive persons can be detected. Additionally, the results can be used to design automated tools for detecting the real-time depression rate among people and necessary treatment can be taken as well.
 ---
 
-Read Full Thesis Paper[http://dspace.daffodilvarsity.edu.bd:8080/handle/123456789/10411]
+Read Full Thesis Paper: [http://dspace.daffodilvarsity.edu.bd:8080/handle/123456789/10411]
