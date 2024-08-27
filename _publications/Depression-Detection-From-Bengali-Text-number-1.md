@@ -1,7 +1,6 @@
 ---
 title: "Depression Detection From Bengali Text On Social Media Using Machine Learning Algorithms."
 collection: publications
-category: manuscripts
 permalink: /publication/Depression-Detection-From-Bengali-Text-number-1
 excerpt: 'This paper is an ongoing process.'
 date: 01-03-2023
