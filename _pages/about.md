@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Agenda"
+#title: "Research Agenda"
 author_profile: true
 redirect_from: 
   - /about/
